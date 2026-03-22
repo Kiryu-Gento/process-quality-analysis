@@ -93,7 +93,6 @@ process-quality-analysis/
 ├── outputs/
 └── images/
 
+---
 
-## 📁 코드
-
-👉 👉 [core_analysis.ipynb 바로 보기](./notebooks/core_analysis.ipynb)
+👉 [core_analysis.ipynb 바로 보기](./notebooks/core_analysis.ipynb)
