@@ -94,4 +94,4 @@ process-quality-analysis/
 └── images/
 ```
 
-👉 [core_analysis.ipynb 바로 보기](./notebooks/core_analysis.ipynb)
+👉 [core_analysis.ipynb 바로 보기](./core_analysis.ipynb)
