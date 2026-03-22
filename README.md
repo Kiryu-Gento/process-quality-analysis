@@ -96,4 +96,4 @@ process-quality-analysis/
 
 ## 📁 코드
 
-👉 [process_quality_analysis.ipynb 바로 보기](./notebooks/process_quality_analysis.ipynb)
+👉 https://github.com/Kiryu-Gento/process-quality-analysis/blob/main/notebooks/core_analysis.ipynb
