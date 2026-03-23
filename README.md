@@ -79,18 +79,5 @@
 
 ---
 
-## 10. 폴더 구성
-```text
-process-quality-analysis/
-├── README.md
-├── notebooks/
-├── src/
-├── data/
-├── outputs/
-└── images/
-
-```
----
-
 ## 사용 코드
 👉 [core_analysis.ipynb 바로 보기](./core_analysis.ipynb)
