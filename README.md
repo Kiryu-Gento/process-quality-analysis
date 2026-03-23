@@ -26,8 +26,8 @@
 ---
 
 ## 4. 사용 데이터
-- Process Data: 혼합 공정 주요 변수 데이터  
-- QC Data: 품질 측정 데이터  
+- Process Data : 혼합 공정 주요 변수 데이터  
+- QC Data : 품질 측정 데이터  
 
 ---
 
