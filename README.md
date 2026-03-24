@@ -92,4 +92,4 @@
 ---
 
 ## 사용 코드
-👉 [core_analysis.ipynb 바로 보기](./core_analysis.ipynb)
+👉 [cosmetic_process_analysis_real_fixed2.ipynb 바로 보기](./cosmetic_process_analysis_real_fixed2.ipynb)
