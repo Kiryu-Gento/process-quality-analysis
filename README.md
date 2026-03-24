@@ -4,6 +4,11 @@
 
 ---
 
+## 사용 코드
+👉 [cosmetic_process_analysis_real_fixed2.ipynb 바로 보기](./cosmetic_process_analysis_real_fixed2.ipynb)
+
+---
+
 ## 1. 프로젝트 개요
 화장품 혼합탱크 공정 데이터 기반 품질 최적화 및 공정 제어 전략 수립 프로젝트
 
@@ -90,6 +95,3 @@
 - Seaborn  
 
 ---
-
-## 사용 코드
-👉 [cosmetic_process_analysis_real_fixed2.ipynb 바로 보기](./cosmetic_process_analysis_real_fixed2.ipynb)
